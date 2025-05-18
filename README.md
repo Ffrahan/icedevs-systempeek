@@ -26,6 +26,10 @@ python system_peek_windows.py
 
 python3 system_peek_linux_advanced.py
 
+اجرای نسخه‌ی لینوکس بدون نیاز به دانلود:
+
+curl -sL https://raw.githubusercontent.com/Ffrahan/icedevs-systempeek/main/system_peek_linux_advanced.py | python3
+
 -------------------------
 
 سازنده:  
